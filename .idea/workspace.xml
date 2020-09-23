@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1446b139-7704-4137-a04c-2f8edd9fd135" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\repository\maven" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hoD5OJ485OswWCW6nKjVI1lqoU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1446b139-7704-4137-a04c-2f8edd9fd135" name="Default Changelist" comment="" />
+      <created>1600668366191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600668366191</updated>
+      <workItem from="1600668367600" duration="272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1865" height="262" key="GridCell.Tab.0.bottom" timestamp="1600668639775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600668639775" />
+    <state width="1865" height="262" key="GridCell.Tab.0.center" timestamp="1600668639775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600668639775" />
+    <state width="1865" height="262" key="GridCell.Tab.0.left" timestamp="1600668639774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600668639774" />
+    <state width="1865" height="262" key="GridCell.Tab.0.right" timestamp="1600668639775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600668639775" />
+    <state x="156" y="160" key="new project wizard" timestamp="1600668637233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="156" y="160" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600668637233" />
+  </component>
+</project>
